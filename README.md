@@ -38,14 +38,15 @@ python app.py
 Once the server is running, you can access the web application at http://127.0.0.1:5000.
 
 ## Features
-Audio-to-Text Conversion: Upload MP3 files and get a transcription using Whisper.
+Text-to-Audio Conversion: Type in Text and API Key and get an mp3.
 Simple Web Interface: Easy-to-navigate interface built with Flask.
 
 ## How It Works
-1. Type your text and API KEy
+1. Type your text and API KEY from OpenAI
 2. The file is processed via OpenAI APIs
 3. The Voice output is generated as an mp3
 
+Optional: You can change the voice in main.oy
 
 ## Demo
 
