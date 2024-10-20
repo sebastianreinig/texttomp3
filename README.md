@@ -1,6 +1,7 @@
 # texttomp3 with OpenAI
 
-![Screenshot]()
+<img width="40%" alt="Bildschirmfoto 2024-10-20 um 16 45 57" src="https://github.com/user-attachments/assets/1fa0b759-c155-4db6-8ed2-3c5b4ad40de0">
+
 
 ## Overview
 
